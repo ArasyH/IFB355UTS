@@ -1,6 +1,6 @@
-# utsmobile2023
+# uas mobile2023
 
-UTS PEMROGRAMAN MOBILE
+UAS PEMROGRAMAN MOBILE
 
 ## Getting Started
 
